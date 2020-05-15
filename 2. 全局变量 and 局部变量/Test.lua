@@ -22,5 +22,6 @@ end
 
 fun()
 
+-- 全局 2
 require("TestA")
 print("TestA - " .. a)
